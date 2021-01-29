@@ -76,6 +76,10 @@ square=np.square(randomList)
 #adding List
 addingList=np.add(list1,list2)
 
+#reverse Array
+reverseArray=array[::-1]
 
-
-
+#satirlarin hepsini al, sutunlardan 0 ve 1 i al.
+demanded=a[:,1]
+#son satiri al, butun sutunlari al
+demanded2=a[-1,:]
